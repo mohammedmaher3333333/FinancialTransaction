@@ -28,7 +28,7 @@ class LoginView extends StatelessWidget {
               const CircleAvatar(
                 radius: AppSize.s50,
                 backgroundImage: AssetImage(
-                  ImageAssets.loginLogo,
+                  ImageAssets.personImages,
                 ),
               ),
               const SizedBox(
